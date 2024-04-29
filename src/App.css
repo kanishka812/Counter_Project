@@ -1,0 +1,19 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+body{
+  background: #211f1f;
+}
+h1 , h2 {
+  color: aliceblue;
+}
+.button{
+  color: rgb(236, 232, 228);
+  background-color: #494545;
+  margin: 2%;
+  display: inline-block;
+}
